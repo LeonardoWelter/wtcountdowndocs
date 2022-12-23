@@ -44,7 +44,7 @@ Após enviar, aparecerá uma página informando o status da instalação do plug
 
 Pronto, a instalação foi finalizada e a página de configuração do plugin pode ser encontrada no menu do Wordpress:
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_plugin_installed_marked.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_plugins_installed_marked.png
    :width: 60%
    :align: center
    :alt: Menu do Wordpress
@@ -96,7 +96,7 @@ Na página seguinte, preencha os dados do formulário e clique no botão "Criar"
 
 Após a criação, você será redirecionado a listagem dos Contadores criados, clique no botão na coluna "Shortcode" para copiar o shortcode do Contador criado:
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_raffle_index_created_shortcode.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_index_created_shortcode.png
    :width: 60%
    :align: center
    :alt: Copiando o shortcode do Contador criado

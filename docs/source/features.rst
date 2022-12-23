@@ -142,7 +142,7 @@ Para editar um Contador existente basta clicar no ícone do lápis referente ao 
 
    É possível remover o contador ao clicar no ícone da lixeira, no topo da página
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_remove.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wtcountdowndocs/main/docs/images/wtcount_docs_remove_marked.png
    :width: 60%
    :align: center
    :alt: Removendo um Contador
